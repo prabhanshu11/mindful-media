@@ -1,3 +1,2 @@
 *.json
-*api_key*
-api_key_openai
+api_key*
